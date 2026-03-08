@@ -1,7 +1,5 @@
 # Paradigm Reboot Prober API 文档
 
-[中文](README.md) | [English](README_EN.md)
-
 Paradigm Reboot Prober (PRP) 是一个为音游《Paradigm: Reboot》开发的查分器网站。本文档提供了部分API参考。
 
 ## 快速开始
